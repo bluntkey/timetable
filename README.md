@@ -78,12 +78,12 @@ All generated files are saved in the specified output directory, which defaults 
 |---|---|
 | `timetable.csv` | Timetable organized by slots and halls |
 | `timetable.txt` | Text representation of the schedule |
-| `conflict_graph.png` | Graph showing conflicts between courses |
-| `timetable_grid.png` | Visual timetable with consistent colours for each slot |
-| `comparison_chart.png` | Comparison of algorithm performance |
+| ![Conflict Graph]`conflict_graph.png` | Graph showing conflicts between courses |
+| ![Timetable Grid]`timetable_grid.png` | Visual timetable with consistent colours for each slot |
+| ![Algorithm Comparison]`comparison_chart.png` | Comparison of algorithm performance |
 | `sweep_results.csv` | Slot counts and execution times across graph sizes |
-| `assignment_animation.gif` | Animation of the final method's assignments |
-| `assignment_animation_dsatur.gif` | DSatur assignment animation |
+| ![Assignment Animation]`assignment_animation.gif` | Animation of the final method's assignments |
+| ![Assignment Animation Dsatur]`assignment_animation_dsatur.gif` | DSatur assignment animation |
 
 The console also displays the number of slots used by each algorithm, whether optimality was proven, and the resulting timetable.
 
